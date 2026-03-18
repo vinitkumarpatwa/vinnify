@@ -17,10 +17,8 @@ https://vinitkumarpatwa.netlify.app/apps/vinnify/
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="assets/player.png" alt="Vinnify Music Player UI Screenshot" width="45%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/miniplayer.png" alt="Vinnify Mini Player Screenshot" width="45%">
-</p>
+  <img src="vinnify-player.png" alt="Vinnify Music Player Screenshot" width="60%">
+</p>  
 
 ---
 
